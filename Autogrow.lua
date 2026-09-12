@@ -24,7 +24,7 @@
  StormyDoor38=true,Stinkyfence3=true,mylittlenigma6=true,slzp29=true,lienslq=true,dogybackpack=true,
  dogybackpackelephant=true,solerextwink=true,yass1xn3=true,dogybackpackwater=true,dogybackpack_yas=true,
  Owner1FBT=true,Artermispair44=true,OnwerKAOS1=true,Coconutdream444=true,OWnerFBT1=true,ControlLuna44=true,
- Lunapair44=true,["34xun=true"],["34xri=true"],dyl1opm=true,
+ Lunapair44=true,["34xun"]=true,["34xri"]=true,dyl1opm=true,
 
       
 
